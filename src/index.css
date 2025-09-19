@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+td {
+  @apply p-0;
+}
+.container {
+  @apply px-4;
+}
